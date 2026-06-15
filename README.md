@@ -31,3 +31,4 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+python house_price_prediction.py
